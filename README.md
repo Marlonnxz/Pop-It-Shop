@@ -1,0 +1,1 @@
+Sitio web responsive para tienda de juguetes Pop It antiestrés. Desarrollado con HTML, CSS y JavaScript, incluye catálogo de productos, información sobre los Pop It y reglas de juego. Diseño colorido adaptado tanto a dispositivos móviles como escritorio.
